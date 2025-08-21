@@ -2,6 +2,8 @@
 
 ## 📌 Introdução
 
+O objetivo deste projeto é criar uma máquina de vendas automática, capaz de disponibilizar produtos ao público de maneira prática e organizada. A máquina será equipada com um sistema eletrônico para seleção dos itens e finalização da compra, permitindo diferentes formas de pagamento. O painel de controle será simples e acessível, facilitando a escolha dos produtos. O interior da estrutura será organizado para garantir a reposição eficiente dos itens. Todo o funcionamento será planejado para oferecer agilidade, segurança e autonomia na utilização.
+
 ## 🎯 Objetivos	
 
 ## Cronograma Macro - Entrega até a Feira de Soluções
