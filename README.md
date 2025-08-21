@@ -12,6 +12,17 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 ## Cronograma Macro - Entrega até a Feira de Soluções
 
+#### Entrega 1 
+
+| Tarefas | Colaborador | Início | Fim | 
+|---------|------------|--------|-----|
+| ✅ Foramalização das Equipes| Equipe | 18/08/2025 | 28/08/2025 |
+| ✅ Pesquisa dos Materiais | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
+| ✅ Estimativa de Preços para Materiais e Ferragens| João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
+| ✅ Pré-Projeto Finalizado | João Pedro  | 21/08/2025 | 31/08/2025 |
+| ✅ Documentação e Apresentação | João Pedro | 01/09/2025 | 10/09/2025 |
+
+
 ## 👥 Equipe Grab & Catch
 
 O projeto é desenvolvido pelos seguintes integrantes:
