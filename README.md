@@ -6,6 +6,10 @@ O objetivo deste projeto é criar uma máquina de vendas automática, capaz de d
 
 ## 🎯 Objetivos	
 
+Este projeto tem como finalidade criar uma máquina de vendas automatizada que ofereça produtos aos usuários de maneira rápida e eficiente. Para tanto, será desenvolvido um sistema integrado que possibilite a seleção dos itens, o processamento dos pagamentos e a entrega ágil dos produtos. Além disso, a máquina contará com um design interno que facilite o armazenamento e a reposição contínua dos itens disponíveis. Também serão estabelecidas normas operacionais para assegurar o uso seguro e a manutenção adequada do equipamento.
+
+O desenvolvimento será dividido em etapas específicas, nas quais cada módulo do sistema será desenvolvido e testado individualmente antes da integração final. A equipe contará com o apoio de orientadores e usuários finais para alinhar as funcionalidades às necessidades reais, promovendo ajustes contínuos ao longo do processo. O andamento será monitorado por meio de um cronograma estruturado, que orientará as entregas e facilitará o acompanhamento das atividades.
+
 ## Cronograma Macro - Entrega até a Feira de Soluções
 
 ## 👥 Equipe Grab & Catch
