@@ -2,13 +2,17 @@
 
 ## 📌 Introdução
 
-O objetivo deste projeto é criar uma máquina de vendas automática, capaz de disponibilizar produtos ao público de maneira prática e organizada. A máquina será equipada com um sistema eletrônico para seleção dos itens e finalização da compra, permitindo diferentes formas de pagamento. O painel de controle será simples e acessível, facilitando a escolha dos produtos. O interior da estrutura será organizado para garantir a reposição eficiente dos itens. Todo o funcionamento será planejado para oferecer agilidade, segurança e autonomia na utilização.
+O foco deste projeto é desenvolver uma máquina de vendas automática de baixo custo, capaz de disponibilizar produtos ao público de forma prática e organizada. A proposta integra sistemas mecânicos, eletrônicos e de programação em um protótipo funcional, demonstrando a interação entre hardware e software no processo de automação.
+
+A máquina contará com um sistema eletrônico para seleção dos itens e finalização da compra. O painel de controle será simples e acessível, facilitando a escolha dos produtos.
 
 ## 🎯 Objetivos	
 
-Este projeto tem como finalidade criar uma máquina de vendas automatizada que ofereça produtos aos usuários de maneira rápida e eficiente. Para tanto, será desenvolvido um sistema integrado que possibilite a seleção dos itens, o processamento dos pagamentos e a entrega ágil dos produtos. Além disso, a máquina contará com um design interno que facilite o armazenamento e a reposição contínua dos itens disponíveis. Também serão estabelecidas normas operacionais para assegurar o uso seguro e a manutenção adequada do equipamento.
+Este projeto tem como finalidade desenvolver uma máquina de vendas automatizada de baixo custo, que proporcione praticidade e eficiência aos usuários. Para isso, será implementado um sistema integrado que permita a seleção dos produtos, o processamento dos pagamentos e a entrega rápida dos itens adquiridos.
 
-O desenvolvimento será dividido em etapas específicas, nas quais cada módulo do sistema será desenvolvido e testado individualmente antes da integração final. A equipe contará com o apoio de orientadores para alinhar as funcionalidades às necessidades reais, promovendo ajustes contínuos ao longo do processo. O andamento será monitorado por meio de um cronograma estruturado, que orientará as entregas e facilitará o acompanhamento das atividades.
+Além disso, a máquina terá um design interno que facilite tanto o armazenamento quanto a reposição contínua dos produtos. Serão também definidas normas operacionais que assegurem o uso seguro e a manutenção adequada do equipamento.
+
+O desenvolvimento será dividido em etapas específicas, nas quais cada módulo do sistema será projetado e testado individualmente antes da integração final. A equipe contará com o apoio de orientadores para alinhar as funcionalidades às necessidades reais, promovendo ajustes contínuos ao longo do processo. O andamento será acompanhado por meio de um cronograma estruturado, que organizará as entregas e facilitará o monitoramento das atividades.
 
 ## Cronograma Macro - Entrega até a Feira de Soluções
 
