@@ -2,13 +2,13 @@
 
 ## 📌 Introdução
 
-O foco deste projeto é desenvolver uma máquina de vendas automática de baixo custo, capaz de disponibilizar produtos ao público de forma prática e organizada. A proposta integra sistemas mecânicos, eletrônicos e de programação em um protótipo funcional, demonstrando a interação entre hardware e software no processo de automação.
+O foco deste projeto é desenvolver uma máquina de vendas automática de baixo custo, que seja capaz de interagir com o público por meio de uma gincana, disponibilizando os produtos de forma prática e organizada. A proposta integra sistemas mecânicos, eletrônicos e de programação em um protótipo funcional, demonstrando a integração entre hardware e software no processo de automação.
 
 A máquina contará com um sistema eletrônico para seleção dos itens e finalização da compra. O painel de controle será simples e acessível, facilitando a escolha dos produtos.
 
 ## 🎯 Objetivos	
 
-Este projeto tem como finalidade desenvolver uma máquina de vendas automatizada de baixo custo, que proporcione praticidade e eficiência aos usuários. Para isso, será implementado um sistema integrado que permita a seleção dos produtos, o processamento dos pagamentos e a entrega rápida dos itens adquiridos.
+Este projeto tem como finalidade desenvolver uma máquina de vendas automatizada de baixo custo, que proporcione praticidade e interatividade aos usuários. Para isso, será implementado um sistema de perguntas e respostas e caso o usuario acerte todas as perguntas, poderá escolher algum produto da maquina.
 
 Além disso, a máquina terá um design interno que facilite tanto o armazenamento quanto a reposição contínua dos produtos. Serão também definidas normas operacionais que assegurem o uso seguro e a manutenção adequada do equipamento.
 
@@ -21,10 +21,11 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
 | ✅ Foramalização das Equipes| Equipe | 18/08/2025 | 28/08/2025 |
-| ✅ Pesquisa dos Materiais | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
-| ✅ Estimativa de Preços para Materiais e Ferragens| João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
-| ✅ Pré-Projeto Finalizado | João Pedro  | 21/08/2025 | 31/08/2025 |
-| ✅ Documentação e Apresentação | João Pedro | 01/09/2025 | 10/09/2025 |
+| ✅ Pesquisa de Mercado | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
+| ❌ Croqui inicial | Equipe | 28/08/2025 | 01/08/2025 |
+| ❌ Estimativa de Preços para Materiais e Componentes| João Vitor & Gabriel | 18/08/2025 | 02/08/2025 |
+| ❌ Pré-Projeto Finalizado | João Pedro  | 21/08/2025 | 07/08/2025 |
+| ❌ Documentação e Apresentação | Equipe | 01/09/2025 | 10/09/2025 |
 
 
 ## 👥 Equipe Grab & Catch
