@@ -38,6 +38,7 @@ O projeto é desenvolvido pelos seguintes integrantes:
 | **João Vitor Morais Souza**, 📧 [Email](mailto:joao.souza234@fatec.sp.gov.br) | ![João Vitor Morais Souza](https://github.com/elisfcampos/AITEC-Advanced-Inventor-Tecnology-/blob/d57a1085439af514ea07e30ea6f12cd5123c22d6/Docs/Imagens/Jo%C3%A3oVitor.png) | **** |**** |
 
 **Professores orientadores:**
+- **Viviane Siqueira**
 
 ## 🔗 Links Úteis
 
