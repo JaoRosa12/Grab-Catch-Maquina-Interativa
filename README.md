@@ -22,9 +22,9 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 |---------|------------|--------|-----|
 | ✅ Foramalização das Equipes| Equipe | 18/08/2025 | 28/08/2025 |
 | ✅ Pesquisa de Mercado | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
-| ❌ Croqui inicial | Equipe | 28/08/2025 | 01/09/2025 |
-| ❌ Estimativa de Preços para Materiais e Componentes| João Vitor & Gabriel | 18/08/2025 | 02/09/2025 |
-| ❌ Pré-Projeto Finalizado | João Pedro  | 21/08/2025 | 07/09/2025 |
+| ✅ Croqui inicial | Equipe | 28/08/2025 | 01/09/2025 |
+| ✅ Estimativa de Preços para Materiais e Componentes| João Vitor & Gabriel | 18/08/2025 | 02/09/2025 |
+| ❌ Pré-Projeto Finalizado | João Vitor  | 21/08/2025 | 07/09/2025 |
 | ❌ Documentação e Apresentação | Equipe | 01/09/2025 | 10/09/2025 |
 
 
