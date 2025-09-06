@@ -24,8 +24,38 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 | ✅ Pesquisa de Mercado | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
 | ✅ Croqui inicial | Equipe | 28/08/2025 | 01/09/2025 |
 | ✅ Estimativa de Preços para Materiais e Componentes| João Pedro | 18/08/2025 | 02/09/2025 |
-| ❌ Pré-Projeto Finalizado | João Vitor  | 21/08/2025 | 07/09/2025 |
+| ❌ Minuta do Projeto Finalizado | João Vitor  | 21/08/2025 | 07/09/2025 |
 | ❌ Documentação e Apresentação | Equipe | 01/09/2025 | 10/09/2025 |
+
+#### Entrega 2
+
+| Tarefas | Colaborador | Início | Fim | 
+|---------|------------|--------|-----|
+| ❌ Desenvolver a programção para interface | xx | xx/xx/xx | xx/xx/xx |
+| ❌ Desenvolver a simulação da maquina| xx | xx/xx/xx| xx/xx/xx |
+| ❌ Estimativa de Preços para Materiais e Componentes| xx| xx/xx/xx | xx/xx/xx |
+| ❌ Pré-Projeto Finalizado | João Vitor  | xx/xx/xx | xx/xx/xx |
+| ❌ Documentação e Apresentação | Equipe | xx/xx/xx | xx/xx/xx |
+
+#### Entrega 3
+
+| Tarefas | Colaborador | Início | Fim | 
+|---------|------------|--------|-----|
+| ❌ Desenvolver o Fluxograma da Maquina| xx|  xx/xx/xx |  xx/xx/xx |
+| ❌ Avaliar a necessidade de modificações para compatibilidade  | xx |  xx/xx/xx |  xx/xx/xx |
+| ❌ Visualização dos Testes da Maquina | xx |  xx/xx/xx |  xx/xx/xx |
+| ❌ Finalização do Projeto Executivo | xx |  xx/xx/xx |  xx/xx/xx |
+| ❌ Documentação e Apresentação | xx |  xx/xx/xx |  xx/xx/xx |
+
+#### Entrega 4 
+
+| Tarefas | Colaborador | Início | Fim | 
+|---------|------------|--------|-----|
+| ❌ Finalização da Maquina | xx |  xx/xx/xx |  xx/xx/xx |
+| ❌ Correção do Projeto Executivo | xx |  xx/xx/xx |  xx/xx/xx |
+| ❌ Finalização Esquema Eletrico | xx |  xx/xx/xx |  xx/xx/xx |  
+| ❌ Finalização do Manual de Montagem  | xx  |  xx/xx/xx |  xx/xx/xx |
+| ❌ Documentação e Apresentação | xx |  xx/xx/xx |  xx/xx/xx |
 
 
 ## 👥 Equipe Grab & Catch
