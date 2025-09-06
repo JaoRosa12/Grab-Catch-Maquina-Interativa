@@ -34,7 +34,7 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 | ❌ Desenvolver a programção para interface | xx | xx/xx/xx | xx/xx/xx |
 | ❌ Desenvolver a simulação da maquina| xx | xx/xx/xx| xx/xx/xx |
 | ❌ Estimativa de Preços para Materiais e Componentes| xx| xx/xx/xx | xx/xx/xx |
-| ❌ Pré-Projeto Finalizado | xx | xx/xx/xx | xx/xx/xx |
+| ❌ Minuta do Projeto Finalizado | xx | xx/xx/xx | xx/xx/xx |
 | ❌ Documentação e Apresentação | xx | xx/xx/xx | xx/xx/xx |
 
 #### Entrega 3
