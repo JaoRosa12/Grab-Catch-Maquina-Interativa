@@ -20,7 +20,7 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Foramalização das Equipes| Equipe | 18/08/2025 | 28/08/2025 |
+| ✅ Formalização das Equipes| Equipe | 18/08/2025 | 28/08/2025 |
 | ✅ Pesquisa de Mercado | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
 | ✅ Croqui inicial | Equipe | 28/08/2025 | 01/09/2025 |
 | ✅ Estimativa de Preços para Materiais e Componentes| João Pedro | 18/08/2025 | 02/09/2025 |
