@@ -1,4 +1,4 @@
-# Organizações Grab & Catch - Maquina de Interativa
+# Organizações Grab & Catch - Maquina Interativa
 
 ## 📌 Introdução
 
