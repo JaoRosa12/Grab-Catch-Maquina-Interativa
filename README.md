@@ -1,4 +1,4 @@
-# Organizações Grab & Catch - Maquina de Vendas
+# Organizações Grab & Catch - Maquina de Interativa
 
 ## 📌 Introdução
 
