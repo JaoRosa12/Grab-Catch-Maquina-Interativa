@@ -1,28 +1,30 @@
 ## Cronograma Micro - Entrega 2
 
-| 📅 Data | ✅ Tarefa | 📝 Detalhamento | 👤 Responsável |  
-|---------|------------|--------|-----|
-| **18/08 (Seg)** | Formalização das equipes| Reunião inicial para definir membros | Equipe |
-|                 | Pesquisa de mercado  | Definição do escopo e levantamento inicial    | João Vitor & Gabriel |
-|                 | Levantamento inicial de materiais | Listar insumos e componentes para estimativa de custos   | João Pedro |
-|                 | Continuação da pesquisa | Pesquisa de dados secundários e fontes relevantes            | João Vitor & Gabriel |
-| **21/08 (Qui)** | Início do Pré-Projeto   | Estruturação inicial do pré-projeto (esboço, objetivos)      | João Vitor  |
-| **22/08 (Sex)** | Pesquisa de mercado     | Análise detalhada da concorrência, público-alvo e diferenciais | João Vitor & Gabriel |
-| **25/08 (Seg)** | Organização da pesquisa | Estruturação e síntese dos dados coletados                     | João Vitor & Gabriel |
-|                 | Pesquisa de preços      | Contato e cotação com fornecedores                             | João Pedro  |
-| **28/08 (Qui)** | Início do croqui inicial  | Esboço manual ou digital das primeiras ideias                | Equipe      |
-|                 | Consolidação da equipe    | Documentação da formalização da equipe                       | Equipe    |
-| **29/08 (Sex)** | Desenvolvimento do croqui     | Refinamento do croqui e discussão para melhorias         | Equipe |
-| **30/08 (Sáb)** | Finalização da pesquisa de mercado  | Relatório visual e texto resumo             | João Vitor & Gabriel |
-| **31/08 (Dom)** | Escolha do croqui final            | Decisão sobre a melhor versão para seguir    | Equipe       |
-| **01/09 (Seg)** | Apresentação do croqui final        | Digitalização e organização do arquivo      | Equipe       |
-|                 | Início da apresentação              | Definir tópicos, estrutura                  | Equipe |
-| **02/09 (Ter)** | Finalização da estimativa de preços | Criação de planilha detalhada com preços e fornecedores  | João Pedro |
-| **03/09 (Qua)** | Desenvolvimento do Pré-Projeto      | Redação completa, revisão e ajustes finais               | João Vitor |
-| **05/09 (Sex)** | Criação dos slides                  | Montagem do conteúdo e diagramação inicial dos slides    | Equipe |
-| **06/09 (Sáb)** | Design da apresentação              | Inserção de imagens, gráficos e organização visual       | Equipe |
-| **07/09 (Dom)** | Revisão final do Pré-Projeto        | Última revisão antes da entrega                          | João Vitor |
-| **08/09 (Seg)** | Revisão final da apresentação       | Checagem de conteúdo, revisão textual e visual           | Equipe     |
-| **09/09 (Ter)** | Ensaio da apresentação              | Treino coletivo e divisão de falas                       | Equipe     |
-| **10/09 (Qua)** | Entrega final                       | Submissão do pré-projeto, documentação e apresentação                | Equipe               |
-
+| 📅 **Data** | 📝 **Tarefa**                      | 🔍 **Detalhamento**                         | 👤 **Responsável**   |
+| ----------- | ---------------------------------- | ------------------------------------------- | -------------------- |
+| **16/09/2025**  | Levantamento de materiais          | Listar todos os componentes necessários     | Gabriel              |
+|                 | Cotação de preços                  | Pesquisa em fornecedores e coleta de preços | Gabriel              |
+| **18/09/2025**  | Início da simulação da máquina     | Criação do ambiente e lógica básica         | João Pedro           |
+|                 | Esboço do desenho técnico          | Estrutura inicial do layout                 | João Vitor           |
+|                 | Rascunho do esquema elétrico       | Primeira versão com base no conceito        | Gabriel              |
+| **19/09/2025**  | Ajustes na simulação               | Aplicar comportamentos e movimentações      | João Pedro           |
+| **20/09/2025**  | Refinamento do desenho técnico     | Medidas precisas, camadas e cortes          | João Vitor           |
+| **21/09/2025**  | Refinamento do esquema elétrico    | Validação de conexões e símbolos            | Gabriel              |
+|                 | Verificação conjunta               | Revisão cruzada entre os desenhos           | João Vitor & Gabriel |
+| 23/09/2025  | Início da programação da interface | Estrutura básica e bibliotecas              | João Pedro           |
+|             | Codificação de funções             | Botões, inputs e interações                 | João Pedro           |
+| 25/09/2025  | Testes da interface                | Debug e usabilidade                         | João Pedro           |
+|             | Validação da simulação             | Checagem com critérios do projeto           | João Pedro           |
+| 27/09/2025  | Revisão geral dos desenhos         | Conferência técnica                         | João Vitor           |
+| 28/09/2025  | Consolidação de arquivos           | Organização dos arquivos finais             | Equipe               |
+| 29/09/2025  | Início da minuta final             | Estruturação do documento base              | João Vitor           |
+| 30/09/2025  | Redação da minuta final            | Escrita e formatação                        | João Vitor & Gabriel |
+| 01/10/2025  | Revisão da minuta                  | Leitura crítica e ajustes                   | Gabriel              |
+| 02/10/2025  | Organização dos anexos             | Inserção dos desenhos e simulações          | Equipe               |
+| 03/10/2025  | Montagem dos slides                | Estruturação visual da apresentação         | Equipe               |
+| 04/10/2025  | Revisão dos slides                 | Revisão textual e visual                    | Equipe               |
+| 05/10/2025  | Preparação da apresentação         | Definição de quem fala o quê                | Equipe               |
+| 06/10/2025  | Revisão da documentação            | Conferência geral                           | Equipe               |
+| 07/10/2025  | Ensaio 1 da apresentação           | Treino em grupo                             | Equipe               |
+| 08/10/2025  | Ensaio 2 + Ajustes finais          | Treino + última revisão                     | Equipe               |
+| 09/10/2025  | Entrega final                      | Submissão e preparação para avaliação       | Equipe               |
