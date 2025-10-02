@@ -11,20 +11,18 @@
 | **20/09/2025**  | Refinamento do desenho técnico     | Medidas precisas, camadas e cortes          | João Vitor           |
 | **21/09/2025**  | Refinamento do esquema elétrico    | Validação de conexões e símbolos            | Gabriel              |
 |                 | Verificação conjunta               | Revisão cruzada entre os desenhos           | João Vitor & Gabriel |
-| 23/09/2025  | Início da programação da interface | Estrutura básica e bibliotecas              | João Pedro           |
-|             | Codificação de funções             | Botões, inputs e interações                 | João Pedro           |
-| 25/09/2025  | Testes da interface                | Debug e usabilidade                         | João Pedro           |
-|             | Validação da simulação             | Checagem com critérios do projeto           | João Pedro           |
-| 27/09/2025  | Revisão geral dos desenhos         | Conferência técnica                         | João Vitor           |
-| 28/09/2025  | Consolidação de arquivos           | Organização dos arquivos finais             | Equipe               |
-| 29/09/2025  | Início da minuta final             | Estruturação do documento base              | João Vitor           |
-| 30/09/2025  | Redação da minuta final            | Escrita e formatação                        | João Vitor & Gabriel |
-| 01/10/2025  | Revisão da minuta                  | Leitura crítica e ajustes                   | Gabriel              |
-| 02/10/2025  | Organização dos anexos             | Inserção dos desenhos e simulações          | Equipe               |
-| 03/10/2025  | Montagem dos slides                | Estruturação visual da apresentação         | Equipe               |
-| 04/10/2025  | Revisão dos slides                 | Revisão textual e visual                    | Equipe               |
-| 05/10/2025  | Preparação da apresentação         | Definição de quem fala o quê                | Equipe               |
-| 06/10/2025  | Revisão da documentação            | Conferência geral                           | Equipe               |
-| 07/10/2025  | Ensaio 1 da apresentação           | Treino em grupo                             | Equipe               |
-| 08/10/2025  | Ensaio 2 + Ajustes finais          | Treino + última revisão                     | Equipe               |
-| 09/10/2025  | Entrega final                      | Submissão e preparação para avaliação       | Equipe               |
+| **23/09/2025**  | Início da programação da interface | Estrutura básica e bibliotecas              | João Pedro           |
+|                 | Codificação de funções             | Botões, inputs e interações                 | João Pedro           |
+| **25/09/2025**  | Testes da interface                | Debug e usabilidade                         | João Pedro           |
+|                 | Validação da simulação             | Checagem com critérios do projeto           | João Pedro           |
+| **27/09/2025**  | Revisão geral do CAD               | Conferência técnica                         | João Vitor           |
+|                 | Consolidação de arquivos           | Organização dos arquivos finais             | Equipe               |
+| **02/10/2025**  | Organização dos anexos             | Inserção dos desenhos e simulações          | Equipe               |
+| **04/10/2025**  | Início da minuta final             | Estruturação do documento base              | João Vitor           |
+|                 | Redação da minuta final            | Escrita e formatação                        | João Vitor & Gabriel |
+| **05/10/2025**  | Montagem dos slides                | Estruturação visual da apresentação         | Equipe               |
+|                 | Revisão dos slides                 | Revisão textual e visual                    | Equipe               |
+|                 | Preparação da apresentação         | Definição de quem fala o quê                | Equipe               |
+| **06/10/2025**  | Revisão da documentação            | Conferência geral                           | Equipe               |
+| **07/10/2025**  | Ensaio da apresentação             | Treino em grupo                             | Equipe               |
+| **09/10/2025**  | Entrega final                      | Submissão e preparação para avaliação       | Equipe               |
