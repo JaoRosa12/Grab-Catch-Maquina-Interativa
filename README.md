@@ -33,10 +33,10 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 |---------|------------|--------|-----|
 | ✅ Desenvolver a programção para interface | João Pedro | 23/09/2025 | 26/09/1015 |
 | ✅ Desenvolver a simulação da maquina| João Pedro | 18/09/2025| 25/09/2025 |
-| ❌ Desenvolvimento do Desenho Tecnico| João Vitor | 18/09/2025| xx/xx/xx |
-| ❌ Desenvolvimento do Esquema Eletrico| Gabriel| 18/09/2025| xx/xx/xx |
-| ❌ Estimativa de Preços para Materiais e Componentes| Gabriel| 16/09/2025 | xx/xx/xx |
-| ❌ Minuta do Projeto Finalizado | João Vitor && Gabriel | xx/xx/xx | xx/xx/xx |
+| ✅ Desenvolvimento do Desenho Tecnico| João Vitor | 18/09/2025| xx/xx/xx |
+| ✅ Desenvolvimento do Esquema Eletrico| Gabriel| 18/09/2025| xx/xx/xx |
+| ✅ Estimativa de Preços para Materiais e Componentes| Gabriel| 16/09/2025 | xx/xx/xx |
+| ✅ Minuta do Projeto Finalizado | João Vitor && Gabriel | xx/xx/xx | xx/xx/xx |
 | ❌ Documentação e Apresentação | Equipe | 06/10/2025 | 09/10/2025 |
 
 #### Entrega 3
