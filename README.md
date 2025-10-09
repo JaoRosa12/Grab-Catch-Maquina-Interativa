@@ -34,7 +34,7 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 | ✅ Desenvolver a programção para interface | João Pedro | 23/09/2025 | 26/09/1015 |
 | ✅ Desenvolver a simulação da maquina| João Pedro | 18/09/2025| 25/09/2025 |
 | ✅ Desenvolvimento do Desenho Tecnico| João Vitor | 18/09/2025| 02/10/2025 |
-| ✅ Desenvolvimento do Esquema Eletrico| Gabriel| 18/09/2025| 01/10/2025 |
+| ⚠️ Desenvolvimento do Esquema Eletrico| Gabriel| 18/09/2025| 01/10/2025 |
 | ✅ Estimativa de Preços para Materiais e Componentes| Gabriel| 16/09/2025 | 30/09/2025 |
 | ✅ Minuta do Projeto Finalizado | João Vitor && Gabriel | 04/10/2025 | 06/10/2025 |
 | ✅ Documentação e Apresentação | Equipe | 06/10/2025 | 09/10/2025 |
