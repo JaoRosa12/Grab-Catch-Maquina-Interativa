@@ -43,8 +43,8 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ❌ Desenvolver o Fluxograma da Maquina| João Pedro|  10/10/25 |  06/11/25 |
-| ❌ Visualização e Testes da eletrônica | Gabriel e João Vitor |  16/10/25 |  23/10/25 |
+| ✅ Desenvolver o Fluxograma da Maquina| João Pedro|  10/10/25 |  06/11/25 |
+| ✅ Visualização e Testes da eletrônica | Gabriel e João Vitor |  16/10/25 |  23/10/25 |
 | ❌ Visualização e testes de programação | Equipe |  21/10/25 |  30/10/25 |
 | ❌ Finalização do Projeto Executivo | João Pedro |  24/10/25 |  06/11/25 |
 | ❌ Documentação e Apresentação | Equipe | 03/11/25 | 06/11/25 |
