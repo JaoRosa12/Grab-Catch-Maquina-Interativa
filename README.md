@@ -55,9 +55,9 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 |---------|------------|--------|-----|
 | ✅ Finalização da Caixa | João Vitor |  24/11/2025 |  25/11/2025 |
 | ✅ Correção do Projeto Executivo | João Pedro |  16/11/2025 |  16/11/2025 |
-| ❌ Finalização da Maquina | Equipe |  20/11/2025 |  27/11/2025 |  
-| ❌ Finalização do Relatorio Final  | João Vitor  |  20/11/2025 |  27/11/2025 |
-| ❌ Documentação e Apresentação | Equipe |  26/11/2025 |  27/11/2025 |
+| ✅ Finalização da Maquina | Equipe |  20/11/2025 |  27/11/2025 |  
+| ✅ Finalização do Relatorio Final  | João Vitor  |  20/11/2025 |  27/11/2025 |
+| ✅ Documentação e Apresentação | Equipe |  26/11/2025 |  27/11/2025 |
 
 
 ## 👥 Equipe Grab & Catch
