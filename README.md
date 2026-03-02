@@ -2,13 +2,13 @@
 
 ## 📌 Introdução
 
-O foco deste projeto é desenvolver uma máquina de vendas automática de baixo custo, que seja capaz de interagir com o público por meio de uma gincana, disponibilizando os produtos de forma prática e organizada. A proposta integra sistemas mecânicos, eletrônicos e de programação em um protótipo funcional, demonstrando a integração entre hardware e software no processo de automação.
+O foco deste projeto é desenvolver uma máquina interativa, que seja capaz de interagir com o público por meio de uma gincana, disponibilizando os produtos de forma prática e organizada. A proposta integra sistemas mecânicos, eletrônicos e de programação em um protótipo funcional, demonstrando a integração entre hardware e software no processo de automação.
 
 A máquina contará com um sistema eletrônico para seleção dos itens e finalização da compra. O painel de controle será simples e acessível, facilitando a escolha dos produtos.
 
 ## 🎯 Objetivos	
 
-Este projeto tem como finalidade desenvolver uma máquina de vendas automatizada de baixo custo, que proporcione praticidade e interatividade aos usuários. Para isso, será implementado um sistema de perguntas e respostas e caso o usuario acerte todas as perguntas, poderá escolher algum produto da maquina.
+Este projeto tem como finalidade desenvolver uma máquina interativa, que proporcione praticidade e interatividade aos usuários. Para isso, será implementado um sistema de perguntas e respostas e caso o usuario acerte todas as perguntas, poderá escolher algum produto da maquina.
 
 Além disso, a máquina terá um design interno que facilite tanto o armazenamento quanto a reposição contínua dos produtos. Serão também definidas normas operacionais que assegurem o uso seguro e a manutenção adequada do equipamento.
 
