@@ -43,7 +43,7 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
 | ✅ Montagem da Estrutura da Maquina| Equipe |  10/10/25 |  06/11/25 |
-| ✅ Desenvolvimento de jogos para a Maquina | João Pedro |  16/10/25 |  23/10/25 |
+| ✅ Programar jogos para a Maquina | João Pedro |  16/10/25 |  23/10/25 |
 | ✅ Visualização e testes de programação | João Pedro |  21/10/25 |  30/10/25 |
 | ✅ Finalização do Projeto Executivo | Gabriel |  24/10/25 |  09/11/25 |
 | ✅ Documentação e Apresentação | Equipe | 03/11/25 | 09/11/25 |
