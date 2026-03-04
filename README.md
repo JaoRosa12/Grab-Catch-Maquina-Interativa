@@ -20,10 +20,11 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Formalização das Equipes| Equipe | 18/08/2025 | 28/08/2025 |
-| ✅ Pesquisa de Mercado | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
-| ✅ Croqui inicial | Equipe | 28/08/2025 | 01/09/2025 |
-| ✅ Estimativa de Preços para Materiais e Componentes| João Pedro | 18/08/2025 | 02/09/2025 |
+| ✅ Formalização das Equipes| João Pedro | 25/02/2025 | 25/02/2025 |
+| ✅ Pesquisa dos Materias para Fabricação | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
+| ✅ Pesquisa sobre LCD TFT| João Pedro & Gabriel  | 18/08/2025 | 02/09/2025 |
+| ✅ Pesquisa sobre Micontroladores| João Pedro & Gabriel | 18/08/2025 | 02/09/2025 |
+| ✅ Pesquisa sobre integração de iluminação da Maquina| Gabriel | 18/08/2025 | 02/09/2025 |
 | ✅ Pré-Projeto Finalizado | João Vitor  | 21/08/2025 | 07/09/2025 |
 | ✅ Documentação e Apresentação | Equipe | 01/09/2025 | 10/09/2025 |
 
@@ -31,32 +32,31 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Desenvolver a programção para interface | João Pedro | 23/09/2025 | 26/09/1015 |
-| ✅ Desenvolver a simulação da maquina| João Pedro | 18/09/2025| 25/09/2025 |
-| ✅ Desenvolvimento do Desenho Tecnico| João Vitor | 18/09/2025| 02/10/2025 |
-| ✅ Desenvolvimento do Esquema Eletrico| Gabriel| 18/09/2025| 01/10/2025 |
-| ✅ Estimativa de Preços para Materiais e Componentes| Gabriel| 16/09/2025 | 30/09/2025 |
-| ✅ Minuta do Projeto Finalizado | João Vitor && Gabriel | 04/10/2025 | 06/10/2025 |
+| ✅ Pesquisa sobre a parte mecanica da mola| João Vitor & Gabriel | 23/09/2025 | 26/09/1015 |
+| ✅ Pesquisa sobre a progrmação do LCD TFT| João Pedro | 18/09/2025| 25/09/2025 |
+| ✅ Desenvolvimento do Desenho Tecnico Atualizado| João Vitor | 18/09/2025| 02/10/2025 |
+| ✅ Minuta do Projeto Finalizado | João Pedro | 04/10/2025 | 06/10/2025 |
 | ✅ Documentação e Apresentação | Equipe | 06/10/2025 | 09/10/2025 |
 
 #### Entrega 3
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Desenvolver o Fluxograma da Maquina| João Pedro|  10/10/25 |  06/11/25 |
-| ✅ Visualização e Testes da eletrônica | Gabriel e João Vitor |  16/10/25 |  23/10/25 |
-| ✅ Visualização e testes de programação | Equipe |  21/10/25 |  30/10/25 |
-| ✅ Finalização do Projeto Executivo | João Pedro |  24/10/25 |  09/11/25 |
+| ✅ Montagem da Estrutura da Maquina| Equipe |  10/10/25 |  06/11/25 |
+| ✅ Desenvolvimento de jogos para a Maquina | João Pedro |  16/10/25 |  23/10/25 |
+| ✅ Visualização e testes de programação | João Pedro |  21/10/25 |  30/10/25 |
+| ✅ Finalização do Projeto Executivo | Gabriel |  24/10/25 |  09/11/25 |
 | ✅ Documentação e Apresentação | Equipe | 03/11/25 | 09/11/25 |
 
 #### Entrega 4 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Finalização da Caixa | João Vitor |  24/11/2025 |  25/11/2025 |
+| ✅ Implementação de Melhorias da Maquina | Equipe |  16/11/2025 |  16/11/2025 |
+| ✅ Finalização da Caixa | Equipe |  24/11/2025 |  25/11/2025 |
 | ✅ Correção do Projeto Executivo | João Pedro |  16/11/2025 |  16/11/2025 |
 | ✅ Finalização da Maquina | Equipe |  20/11/2025 |  27/11/2025 |  
-| ✅ Finalização do Relatorio Final  | João Vitor  |  20/11/2025 |  27/11/2025 |
+| ✅ Finalização do Relatorio Final  | Equipe  |  20/11/2025 |  27/11/2025 |
 | ✅ Documentação e Apresentação | Equipe |  26/11/2025 |  27/11/2025 |
 
 
