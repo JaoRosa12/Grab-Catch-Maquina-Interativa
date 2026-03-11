@@ -1,19 +1,18 @@
-## Cronograma Micro - Entrega 1
+# 🔬 Cronograma Micro — Entrega 1
 
 | 📅 **Data** | 📝 **Tarefa** | 🔍 **Detalhamento** | 👤 **Responsável** |
-| ----------- | ------------- | ------------------- | ------------------ |
-| **10/10/2025** | Início do desenvolvimento do fluxograma da máquina | Estruturação inicial do fluxograma e definição dos processos principais da máquina | João Pedro |
-| **14/10/2025** | Refinamento do fluxograma | Ajustes lógicos e revisão da sequência operacional | João Pedro |
-| **16/10/2025** | Início dos testes da eletrônica | Montagem dos componentes e primeiros testes de ligações | Gabriel e João Vitor |
-| **18/10/2025** | Validação dos circuitos | Correção de falhas e conferência de funcionamento geral | Gabriel e João Vitor |
-| **21/10/2025** | Início dos testes de programação | Implementação e depuração inicial do código | Equipe |
-| **25/10/2025** | Testes integrados | Testes combinando software e hardware | Equipe |
-| **27/10/2025** | Ajustes no código | Correção de bugs e melhoria de performance | Equipe |
-| **30/10/2025** | Conclusão da etapa de programação | Validação completa e salvamento das versões finais | Equipe |
-| **24/10/2025** | Início da finalização do projeto executivo | Revisão de medições e integração dos subsistemas | João Pedro |
-| **28/10/2025** | Consolidação dos arquivos técnicos | Conferência e unificação dos desenhos e diagramas | João Pedro |
-| **03/11/2025** | Início da documentação e da apresentação | Estruturação dos tópicos e definição do roteiro de apresentação | Equipe |
-| **05/11/2025** | Redação da documentação final | Escrita e formatação do relatório e slides | Equipe |
-| **07/11/2025** | Revisão geral da documentação | Correções finais e preparação dos anexos | Equipe |
-| **09/11/2025** | Apresentação e entrega | Ensaio final e submissão da entrega 3 | Equipe |
-
+|-------------|---------------|---------------------|--------------------|
+| **25/02/2026** | Formalização das Equipes | Definição oficial dos membros, papéis e responsabilidades de cada colaborador no projeto | João Pedro |
+| **28/02/2026** | Início da pesquisa de materiais | Levantamento inicial de fornecedores e especificações técnicas dos materiais necessários | João Vitor & Gabriel |
+| **03/03/2026** | Consolidação da pesquisa de materiais | Comparativo de preços, seleção de fornecedores e registro das especificações finais | João Vitor & Gabriel |
+| **28/02/2026** | Início da pesquisa sobre LCD TFT | Estudo de modelos compatíveis e protocolos de comunicação com microcontroladores | João Pedro & Gabriel |
+| **04/03/2026** | Conclusão da pesquisa sobre LCD TFT | Definição do modelo escolhido e documentação das especificações de integração | João Pedro & Gabriel |
+| **28/02/2026** | Início da pesquisa sobre Microcontroladores | Comparativo entre opções disponíveis: GPIOs, memória e compatibilidade com o projeto | João Pedro & Gabriel |
+| **03/03/2026** | Conclusão da pesquisa sobre Microcontroladores | Seleção do microcontrolador e registro das justificativas técnicas da escolha | João Pedro & Gabriel |
+| **03/03/2026** | Início da pesquisa de iluminação | Estudo de tipos de LEDs, controladores e esquemas de acionamento para a máquina | Gabriel |
+| **07/03/2026** | Testes de integração de iluminação | Montagem de protótipo simples e validação do esquema de acionamento escolhido | Gabriel |
+| **11/03/2026** | Conclusão da pesquisa de iluminação | Documentação final com circuito definido e componentes selecionados | Gabriel |
+| **08/03/2026** | Início da consolidação do Pré-Projeto | Reunião de alinhamento e integração de todas as pesquisas realizadas pela equipe | João Vitor |
+| **10/03/2026** | Pré-Projeto Finalizado | Documento técnico completo com decisões de design, componentes e arquitetura do sistema | João Vitor |
+| **12/03/2026** | Elaboração da documentação e apresentação | Estruturação dos tópicos, redação do relatório e montagem dos slides finais | Equipe |
+| **12/03/2026** | Revisão e entrega | Revisão geral, ensaio da apresentação e submissão da Entrega 1 | Equipe |
