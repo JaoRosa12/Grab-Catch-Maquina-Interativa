@@ -20,13 +20,13 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Formalização das Equipes| João Pedro | 25/02/2025 | 25/02/2025 |
-| ✅ Pesquisa dos Materias para Fabricação | João Vitor & Gabriel | 18/08/2025 | 30/08/2025 |
-| ✅ Pesquisa sobre LCD TFT| João Pedro & Gabriel  | 18/08/2025 | 02/09/2025 |
-| ✅ Pesquisa sobre Micontroladores| João Pedro & Gabriel | 18/08/2025 | 02/09/2025 |
-| ✅ Pesquisa sobre integração de iluminação da Maquina| Gabriel | 18/08/2025 | 02/09/2025 |
-| ✅ Pré-Projeto Finalizado | João Vitor  | 21/08/2025 | 07/09/2025 |
-| ✅ Documentação e Apresentação | Equipe | 01/09/2025 | 10/09/2025 |
+| ✅ Formalização das Equipes| João Pedro | 25/02/2026 | 25/02/2026 |
+| ✅ Pesquisa dos Materias para Fabricação | João Vitor & Gabriel | 28/02/2026 | 10/03/2026 |
+| ✅ Pesquisa sobre LCD TFT| João Pedro & Gabriel  |28/03/2026 | 04/03/2026 |
+| ✅ Pesquisa sobre Micontroladores| João Pedro & Gabriel | 28/03/2026 | 03/03/2026 |
+| ✅ Pesquisa sobre integração de iluminação da Maquina| Gabriel | 03/03/2026 | 11/03/2026 |
+| ✅ Pré-Projeto Finalizado | João Vitor  | 08/03/2026 | 10/03/2026 |
+| ✅ Documentação e Apresentação | Equipe | 12/03/2026 | 12/03/2026 |
 
 #### Entrega 2
 
