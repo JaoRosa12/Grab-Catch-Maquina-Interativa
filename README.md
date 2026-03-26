@@ -32,32 +32,32 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Pesquisa sobre a parte mecanica da mola| João Vitor & Gabriel | 23/09/2025 | 26/09/1015 |
-| ✅ Pesquisa sobre a progrmação do LCD TFT| João Pedro | 18/09/2025| 25/09/2025 |
-| ✅ Desenvolvimento do Desenho Tecnico Atualizado| João Vitor | 18/09/2025| 02/10/2025 |
-| ✅ Minuta do Projeto Finalizado | João Pedro | 04/10/2025 | 06/10/2025 |
-| ✅ Documentação e Apresentação | Equipe | 06/10/2025 | 09/10/2025 |
+| ✅ Pesquisa sobre a parte mecanica da mola| João Vitor & Gabriel | 15/03/2025 | 20/03/1015 |
+| ✅ Pesquisa sobre a progrmação do LCD TFT| João Pedro | 14/03/2025| 20/03/2025 |
+| ❌ Desenvolvimento do Desenho Tecnico Atualizado| João Vitor | 18/03/2025| 31/03/2025 |
+| ❌ Minuta do Projeto Finalizado | João Pedro | 26/03/2025 | xx/03/2025 |
+| ❌ Documentação e Apresentação | Equipe | 09/04/2025 | 09/04/2025 |
 
 #### Entrega 3
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Montagem da Estrutura da Maquina| Equipe |  10/10/25 |  06/11/25 |
-| ✅ Programar jogos para a Maquina | João Pedro |  16/10/25 |  23/10/25 |
-| ✅ Visualização e testes de programação | João Pedro |  21/10/25 |  30/10/25 |
-| ✅ Finalização do Projeto Executivo | Gabriel |  24/10/25 |  09/11/25 |
-| ✅ Documentação e Apresentação | Equipe | 03/11/25 | 09/11/25 |
+| ❌ Montagem da Estrutura da Maquina| Equipe |  10/10/25 |  06/11/25 |
+| ❌ Programar jogos para a Maquina | João Pedro |  16/10/25 |  23/10/25 |
+| ❌ Visualização e testes de programação | João Pedro |  21/10/25 |  30/10/25 |
+| ❌ Finalização do Projeto Executivo | Gabriel |  24/10/25 |  09/11/25 |
+| ❌ Documentação e Apresentação | Equipe | 03/11/25 | 09/11/25 |
 
 #### Entrega 4 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ✅ Implementação de Melhorias da Maquina | Equipe |  16/11/2025 |  16/11/2025 |
-| ✅ Finalização da Caixa | Equipe |  24/11/2025 |  25/11/2025 |
-| ✅ Correção do Projeto Executivo | João Pedro |  16/11/2025 |  16/11/2025 |
-| ✅ Finalização da Maquina | Equipe |  20/11/2025 |  27/11/2025 |  
-| ✅ Finalização do Relatorio Final  | Equipe  |  20/11/2025 |  27/11/2025 |
-| ✅ Documentação e Apresentação | Equipe |  26/11/2025 |  27/11/2025 |
+| ❌ Implementação de Melhorias da Maquina | Equipe |  16/11/2025 |  16/11/2025 |
+| ❌ Finalização da Caixa | Equipe |  24/11/2025 |  25/11/2025 |
+| ❌ Correção do Projeto Executivo | João Pedro |  16/11/2025 |  16/11/2025 |
+| ❌ Finalização da Maquina | Equipe |  20/11/2025 |  27/11/2025 |  
+| ❌ Finalização do Relatorio Final  | Equipe  |  20/11/2025 |  27/11/2025 |
+| ❌ Documentação e Apresentação | Equipe |  26/11/2025 |  27/11/2025 |
 
 
 ## 👥 Equipe Grab & Catch
