@@ -2,13 +2,13 @@
 
 ## 📌 Introdução
 
-O foco deste projeto é desenvolver uma máquina interativa, que seja capaz de interagir com o público por meio de uma gincana, disponibilizando os produtos de forma prática e organizada. A proposta integra sistemas mecânicos, eletrônicos e de programação em um protótipo funcional, demonstrando a integração entre hardware e software no processo de automação.
+A Grab & Catch é uma máquina interativa desenvolvida por alunos do curso de Manufatura Avançada da Fatec São José dos Campos, no âmbito da disciplina de Desenvolvimento Integrado de Produto (DIP). A proposta é simples: o usuário enfrenta um jogo rápido na tela TFT Touch, e se vencer, ganha um brinde liberado na hora pela máquina.
 
-A máquina contará com um sistema eletrônico para seleção dos itens e finalização da compra. O painel de controle será simples e acessível, facilitando a escolha dos produtos.
+O projeto integra sistemas mecânicos, eletrônicos e de programação em um único protótipo funcional, demonstrando na prática a relação entre hardware e software no processo de automação. O painel de controle é simples e acessível, com uma interface intuitiva que facilita a interação do usuário com a máquina.
 
 ## 🎯 Objetivos	
 
-Este projeto tem como finalidade desenvolver uma máquina interativa, que proporcione praticidade e interatividade aos usuários. Para isso, será implementado um sistema de perguntas e respostas e caso o usuario acerte todas as perguntas, poderá escolher algum produto da maquina.
+Este projeto tem como finalidade desenvolver uma máquina interativa, que proporcione praticidade e interatividade aos usuários. Para isso, será implementado um sistema de pontos e caso o usuário consiga ganhar determinados pontos, poderá escolher algum produto da máquina.
 
 Além disso, a máquina terá um design interno que facilite tanto o armazenamento quanto a reposição contínua dos produtos. Serão também definidas normas operacionais que assegurem o uso seguro e a manutenção adequada do equipamento.
 
