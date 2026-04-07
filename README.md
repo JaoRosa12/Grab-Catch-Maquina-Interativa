@@ -33,10 +33,10 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
 | ✅ Pesquisa sobre a parte mecanica da mola| João Vitor & Gabriel | 15/03/2026 | 20/03/2026 |
-| ✅ Pesquisa sobre a progrmação do LCD TFT| João Pedro | 14/03/2026 | 20/03/2026 |
-| ❌ Desenvolvimento do Desenho Tecnico Atualizado| João Vitor | 18/03/2026| xx/xx/2026 |
-| ❌ Minuta do Projeto Finalizado | João Pedro | 26/03/2026 | xx/xx/2026 |
-| ❌ Documentação e Apresentação | Equipe | 09/04/2026 | 09/04/2026 |
+| ✅ Pesquisa sobre a progrmação do LCD TFT| João Pedro | 16/03/2026 | 20/03/2026 |
+| ✅ Desenvolvimento do Desenho Tecnico Atualizado| João Vitor | 18/03/2026| 08/04/2026 |
+| ✅ Minuta do Projeto Finalizado | João Pedro | 26/03/2026 | 26/03/2026 |
+| ✅ Documentação e Apresentação | Equipe | 09/04/2026 | 09/04/2026 |
 
 #### Entrega 3
 
