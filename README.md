@@ -42,11 +42,11 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ❌ Montagem da Estrutura da Maquina| Equipe | xx/xx/2026  |  xx/xx/2026  |
-| ✅ Programar jogos para a Maquina | João Pedro |  xx/xx/2026  |  xx/xx/2026  |
-| ✅ Visualização e testes de programação | João Pedro |  xx/04/26 |  xx/xx/2026  |
-| ❌ Finalização do Projeto Executivo | Gabriel |  xx/xx/2026  | xx/xx/2026  |
-| ❌ Documentação e Apresentação | Equipe | xx/xx/2026  | xx/xx/2026  |
+| ✅ Montagem da Estrutura da Maquina| Equipe | 13/04/2026  |  04/05/2026  |
+| ✅ Programar jogos para a Maquina | João Pedro |  15/04/2026  |  22/04/2026  |
+| ✅ Visualização e testes de programação | João Pedro |  22/04/26 |  22/04/2026  |
+| ✅ Finalização do Projeto Executivo | João Pedro |  25/04/2026  | 25/04/2026  |
+| ✅ Documentação e Apresentação | Equipe | 05/05/2026  | 06/05/2026  |
 
 #### Entrega 4 
 
