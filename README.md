@@ -52,12 +52,11 @@ O desenvolvimento será dividido em etapas específicas, nas quais cada módulo 
 
 | Tarefas | Colaborador | Início | Fim | 
 |---------|------------|--------|-----|
-| ❌ Implementação de Melhorias da Maquina | Equipe |  xx/xx/2026  |  xx/xx/2026  |
-| ❌ Finalização da Caixa | Equipe |  xx/xx/2026  |  xx/xx/2026  |
-| ❌ Correção do Projeto Executivo | João Pedro |  xx/xx/2026  |  xx/xx/2026  |
-| ❌ Finalização da Maquina | Equipe |  xx/xx/2026  |  xx/xx/2026  |  
-| ❌ Finalização do Relatorio Final  | Equipe  |  xx/xx/2026  | xx/xx/2026  |
-| ❌ Documentação e Apresentação | Equipe |  xx/xx/2026  |  xx/xx/2026  |
+| ✅ Montagem dos Eletrônicos  | Equipe |  09/05/2026  |  15/05/2026  |
+| ✅ Sistema Mecânico na Estrutura | João Pedro |  09/05/2026  | 15/05/2026  |
+| ✅ Teste de Validação | Equipe |  10/05/2026  |  16/05/2026  |  
+| ✅ Ajustes Tecnicos  | Equipe  |  16/05/2026  | 18/05/2026 |
+| ✅ Documentação e Apresentação | Equipe |  09/06/2026  |  11/06/2026 |
 
 
 ## 👥 Equipe Grab & Catch
